@@ -1,0 +1,7 @@
+Server.c
+Client.c
+.vscode
+note
+*.o
+myftp
+test_ftp.sh
